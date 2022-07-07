@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2022-07-07T07:21:36.561244549Z"
+entries:
+  javawebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-07T07:41:16.630113245Z"
+    description: A Helm chart for Kubernetes
+    digest: 03846ae7b0373bc451074ef04000c4ca241009441a2e5376a0deb207e319cf9c
+    name: javawebapp
+    type: application
+    urls:
+    - https://java-app-2022.github.io/PrivateHelm/javawebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-07T07:41:16.629236805Z"
